@@ -1,4 +1,4 @@
-# REAL TIMR FACE RECOGONITION<br/>
+# REAL TIME FACE RECOGONITION<br/>
 Simple python program to detect face in your video file (.mp4 or .avi).The number of faces in image file is one or more than one program will successfully able to detect the faces in image<br/>
 
 * Getting Started<br/>
